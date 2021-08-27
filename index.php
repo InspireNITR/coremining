@@ -260,8 +260,29 @@ $showError= "false";
         </div>
     </div>
 
-
-
+    <div class="container-fluid py-5 " style="background-color: #f06060;">
+    <h2 class="text-center p-4 " style="font-family: 'RocknRoll One', sans-serif; font-size:200%; color:blue">
+            OUR FACULTY ADVISOR</h2>
+        <div class="card mx-auto" style="width: 75%;">
+            <div class="row">
+                <div class="col-md-5 p-5">
+                    <img src="images\1141150.jpg" class="img-fluid rounded-start" alt="fac-ad">
+                </div>
+                <div class="col-md-7">
+                    <div class="card-body mt-4">
+                        <p class="card-text display-5" style="font-weight: 400;">Sanjoy Datta</p>
+                        <p class="card-text mt-2">Assistant Professor Grade-I</p>
+                        <p class="card-text mt-2 ">Physics and Astronomy</p>
+                        <ul class="list-group list-group-flush mt-4">
+                            <li class="list-group-item"><i class="fas fa-address-book" style="font-size: 1em;"></i> (+91) 661 246 2736</li>
+                            <li class="list-group-item"><i class="fas fa-envelope" style="font-size: 1em;"></i> dattas[at]nitrkl.ac.in</li>
+                            <li class="list-group-item"><i class="fas fa-map-marker-alt" style="font-size: 1em;"></i> Department of Physics and Astronomy, National Institute of Technology Rourkela, Sundargarh, Odisha, India - 769008</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
@@ -575,7 +596,7 @@ $showError= "false";
         wrap: false
     })
     </script>
-
+    <script src="https://kit.fontawesome.com/12829ceb9e.js" crossorigin="anonymous"></script>
     <!-- < !--Optional JavaScript; choose one of the two!-->
 
     <!-- < !--Option 1: Bootstrap Bundle with Popper-->
